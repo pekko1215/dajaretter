@@ -1,0 +1,24 @@
+{
+  "name": "dajaretter",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000d\u0000a\u0000j\u0000a\u0000r\u0000e\u0000t\u0000t\u0000e\u0000r\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "dependencies": {
+    "kuromoji": "^0.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pekko1215/dajaretter.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pekko1215/dajaretter/issues"
+  },
+  "homepage": "https://github.com/pekko1215/dajaretter#readme"
+}
